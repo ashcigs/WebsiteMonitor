@@ -19,7 +19,7 @@ Tech dependencies and considerations:
     sending emails, integrating with RabbitMQ, JSON encoding tasks, exposing
     an HTTP interface for registering tasks, etc. Maven is a fantastic build and
     dependency management system, so the simplicity of using so many external
-    libraries was great.
+    libraries will be great.
 
     I would like to call out that I have very little professional java experience,
     so if I have strange naming conventions or I'm missing some common Java pattern,
